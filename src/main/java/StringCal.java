@@ -62,12 +62,5 @@ public class StringCal {
     return result;
   }
 
-  public static void main(String args[]){
-    StringCal cal = new StringCal();
-    String str = "3 / 0";
-    int cal_result = cal.calculateString(cal.seperate(str));
-    System.out.println(cal_result);
-  }
-
 }
 
