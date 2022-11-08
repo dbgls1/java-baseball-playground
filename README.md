@@ -1,3 +1,15 @@
+# 구현할 기능
+- 숫자를 비교한다 - CompareNum
+  - 같은 숫자가 있는지? - isContainNum
+    - 같은 수가 같은자리에 있으면 스트라이크
+    - 같은 수가 다른 자리에 있으면 볼
+    - 그 외는 아웃
+- 컴퓨터가 1~9까지 서로다른 3개의 숫자를 선택한다 - NumberGenerator.makeRandomNum()
+- 사용자로부터 1~9까지 서로다른 3개의 숫자를 입력받는다 - PalyerNum
+- 3 스트라이크면 게임을 종료하거나 다시 시작할 수 있도록 선택권을 준다 - main
+
+
+
 ## [NEXTSTEP 플레이그라운드의 미션 진행 과정](https://github.com/next-step/nextstep-docs/blob/master/playground/README.md)
 
 ---
